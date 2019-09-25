@@ -1,6 +1,7 @@
-# Complete-Uninstall-Xcode-
+# Complete-Uninstall-Xcode
 This is the guide to manually uninstall xcodes and alternative xcodes 
 
+Source :- https://stackoverflow.com/a/53575585/10422074
 
 For a *complete* removal of *Xcode 10* delete the following:
 
@@ -23,3 +24,6 @@ but if you don't want to lose all of your customizations, consider saving these 
  4. `~/Library/Developer/Xcode/Templates`
  5. `~/Library/Preferences/com.apple.dt.Xcode.plist`
  6. `~/Library/MobileDevice/Provisioning Profiles`
+
+
+## Note :- Dont Delete `~/Library/Developer/PrivateFrameworks` else u will face crashes on new xcode installations
