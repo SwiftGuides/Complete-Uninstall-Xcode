@@ -26,4 +26,4 @@ but if you don't want to lose all of your customizations, consider saving these 
  6. `~/Library/MobileDevice/Provisioning Profiles`
 
 
-## Note :- Dont Delete `~/Library/Developer/PrivateFrameworks` else u will face crashes on new xcode installations
+#### Note :- Dont Delete `~/Library/Developer/PrivateFrameworks` else u will face crashes on new xcode installations
